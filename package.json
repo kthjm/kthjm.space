@@ -1,0 +1,19 @@
+{
+  "name": "kthjm.space",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/kthjm/kthjm.space",
+  "author": "kthjm <toxictoxer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ahub serve",
+    "build": "ahub build",
+    "serve": "serve _site"
+  },
+  "devDependencies": {
+    "ahub": "^0.0.5",
+    "core-js": "^2.5.7",
+    "serve": "^9.4.0"
+  }
+}
