@@ -1,20 +1,30 @@
 {
-  "lang": "",
+  "lang": "ja",
   "inherit": false,
   "head": {
     "title": "kthjm's hub",
     "og": true,
-    "ga": "",
-    "tags": []
+    "ga": "UA-73760794-8",
+    "tags": [
+      ["meta", { "charSet": "utf-8" }],
+      ["meta", { "name": "keywords", "content": "kthjm,website" }],
+      ["meta", { "name": "description", "content": "" }],
+      ["meta", { "property": "og:locale", "content": "ja_JP" }],
+      ["meta", { "property": "og:url", "content": "https://kthjm.space" }],
+      ["meta", { "property": "og:site_name", "content": "kthjm.space" }],
+      ["meta", { "property": "og:image", "content": "/_image/opengraph.png" }],
+      ["meta", { "property": "og:title", "content": "kthjm's hub" }],
+      ["meta", { "property": "og:description", "content": "" }],
+      ["meta", { "name": "google-site-verification", "content": "PMR1WzOOInpvFkZKk0Qpf4UZX4N3jqr_KLN3W4sW6_w" }]
+    ]
   },
   "body": {
-    "background": "silver",
-    "//background": "#67616f",
+    "background": "#221e30",
     "color": "#ffffff",
     "linksRowLength": 2,
     "header": {
       "image": "/_image/kthjm.svg",
-      "description": "Not in Education, Employment or Training.<br /><a href=\"mailto:kthjm@outlook.com\" style=\"text-decoration:none;color:lightslategrey;\">kthjm@outlook.com</a>"
+      "description": "Not in Education, Employment or Training.<br /><a href=\"mailto:kthjm@outlook.com\" style=\"text-decoration:none;color:#ffffff;\">kthjm@outlook.com</a>"
     },
     "links": [
       {

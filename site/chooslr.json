@@ -1,13 +1,11 @@
 {
   "inherit": true,
   "body": {
-    "linksRowLength": 2,
     "header": {
       "image": "/_image/chooslr.white.svg",
       "title": "chooslr.com",
       "href": "https://chooslr.com",
-      "//description": "tumblr client.",
-      "description": "<a href=\"https://chooslr.com/document\" target=\"_blank\" style=\"text-decoration:none;color:lightslategrey;\">about</a>"
+      "description": "tumblr client."
     },
     "links": [
       {

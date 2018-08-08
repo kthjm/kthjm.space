@@ -1,12 +1,9 @@
 {
   "inherit": true,
   "body": {
-    "linksRowLength": 2,
     "header": {
-      "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
-      "title": "github.com/kthjm",
-      "href": "https://github.com/kthjm",
-      "//description": "<a href=\"https://github.com/kthjm\" target=\"_blank\" style=\"text-decoration:none;color:lightslategrey;\">https://github.com/kthjm</a>"
+      "image": "https://pbs.twimg.com/profile_images/879760355559325696/Tn2cD3Wq_400x400.jpg",
+      "description": "<a href=\"https://github.com/kthjm\" target=\"_blank\" style=\"text-decoration:none;color:#ffffff;\">/kthjm</a>"
     },
     "links": [
       {
@@ -17,7 +14,7 @@
       },
       {
         "title": "niconico-hoik",
-        "image": "/_image/niconico-hoik.trans.png",
+        "image": "/_image/niconico-hoik.trans.svg",
         "href": "https://github.com/niconico-hoik",
         "hub": ""
       },
