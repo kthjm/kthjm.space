@@ -5,7 +5,18 @@ module.exports = {
   sitemap: {
     hostname: 'https://kthjm.space'
   },
-  favicons: {},
+  favicons: {
+    appName: 'kthjm/hub',
+    addDescription: '',
+    developerName: 'kthjm',
+    developerURL: 'https://github.com/kthjm',
+    background: '#f0f0f0',
+    theme_color: '#f0f0f0',
+    appleStatusBarStyle: 'black-translucent',
+    display: 'browser',
+    start_url: "/",
+    icons: {}
+  },
   chokidar: {},
   browsersync: {}
 }
