@@ -21,61 +21,61 @@
   "body": {
     "background": "#221e30",
     "color": "#ffffff",
-    "linksRowLength": 2,
-    "header": {
-      "image": "/_image/kthjm.svg",
-      "description": "Not in Education, Employment or Training.<br /><a href=\"mailto:kthjm@outlook.com\" style=\"text-decoration:none;color:#ffffff;\">kthjm@outlook.com</a>"
-    },
-    "links": [
-      {
-        "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
-        "href": "https://github.com/kthjm",
-        "hub": "/github"
-      },
-      {
-        "image": "https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667",
-        "href": "https://dev.to/kthjm"
-      },
-      {
-        "image": "https://cdn.worldvectorlogo.com/logos/medium-2.svg",
-        "href": "https://medium.com/@koto_hajime"
-      },
-      {
-        "image": "https://pbs.twimg.com/profile_images/1542801560/Qiita.png",
-        "href": "https://qiita.com/kthjm"
-      },
-      {
-        "image": "https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png",
-        "href": "https://codepen.io/kthjm/"
-      },
-      {
-        "image": "https://cdn3.iconfinder.com/data/icons/picons-social/57/42-dribbble-512.png",
-        "href": "https://dribbble.com/kthjm"
-      },
-      {
-        "image": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png",
-        "href": "https://stackoverflow.com/users/7476756/kthjm"
-      },
-      {
-        "image": "https://cdn-images-1.medium.com/max/1600/1*wcXyMGZl43Pcdi1U2bbn-Q.png",
-        "href": "https://gist.github.com/kthjm/"
-      },
-      {
-        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png",
-        "href": "https://twitter.com/koto_hajime"
-      },
-      {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
-        "href": "https://qthjm.tumblr.com/"
-      },
-      {
-        "image": "https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png",
-        "href": "https://soundcloud.com/kthjm"
-      },
-      {
-        "image": "http://bantmag.com/news/wp-content/uploads/2016/06/paypal-e1464943847866.png",
-        "href": "https://paypal.me/kthjm"
-      }
-    ]
+    "icon": "/_image/kthjm.svg",
+    "description": "Not in Education, Employment or Training.<br /><a href=\"mailto:kthjm@outlook.com\" style=\"text-decoration:none;color:#ffffff;\">kthjm@outlook.com</a>",
+    "links": {
+      "rowLength": 2,
+      "contents": [
+        {
+          "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
+          "href": "https://github.com/kthjm",
+          "hub": "/github"
+        },
+        {
+          "image": "https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667",
+          "href": "https://dev.to/kthjm"
+        },
+        {
+          "image": "https://cdn.worldvectorlogo.com/logos/medium-2.svg",
+          "href": "https://medium.com/@koto_hajime"
+        },
+        {
+          "image": "https://pbs.twimg.com/profile_images/1542801560/Qiita.png",
+          "href": "https://qiita.com/kthjm"
+        },
+        {
+          "image": "https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png",
+          "href": "https://codepen.io/kthjm/"
+        },
+        {
+          "image": "https://cdn3.iconfinder.com/data/icons/picons-social/57/42-dribbble-512.png",
+          "href": "https://dribbble.com/kthjm"
+        },
+        {
+          "image": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png",
+          "href": "https://stackoverflow.com/users/7476756/kthjm"
+        },
+        {
+          "image": "https://cdn-images-1.medium.com/max/1600/1*wcXyMGZl43Pcdi1U2bbn-Q.png",
+          "href": "https://gist.github.com/kthjm/"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png",
+          "href": "https://twitter.com/koto_hajime"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
+          "href": "https://qthjm.tumblr.com/"
+        },
+        {
+          "image": "https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png",
+          "href": "https://soundcloud.com/kthjm"
+        },
+        {
+          "image": "http://bantmag.com/news/wp-content/uploads/2016/06/paypal-e1464943847866.png",
+          "href": "https://paypal.me/kthjm"
+        }
+      ]
+    }
   }
 }

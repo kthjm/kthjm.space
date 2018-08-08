@@ -28,9 +28,9 @@ after@0.8.2:
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/after/-/after-0.8.2.tgz#fedb394f9f0e02aa9768e702bda23b505fae7e1f"
 
-ahub@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/ahub/-/ahub-0.0.6.tgz#4e4486b0433a8a6660d61ad362b3ad427f642230"
+ahub@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/ahub/-/ahub-0.0.7.tgz#9d9f09fac1067888837826fe4d428ac231f18217"
   dependencies:
     app-root-path "^2.1.0"
     browser-sync "^2.24.6"
@@ -784,8 +784,8 @@ combined-stream@1.0.6, combined-stream@~1.0.5:
     delayed-stream "~1.0.0"
 
 commander@^2.11.0, commander@^2.16.0, commander@^2.2.0, commander@^2.9.0:
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.0.tgz#9d07b25e2a6f198b76d8b756a0e8a9604a6a1a60"
+  version "2.17.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
 
 commander@~2.8.1:
   version "2.8.1"

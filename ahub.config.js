@@ -13,7 +13,7 @@ module.exports = {
     background: '#f0f0f0',
     theme_color: '#f0f0f0',
     appleStatusBarStyle: 'black-translucent',
-    display: 'browser',
+    display: 'standalone',
     start_url: "/",
     icons: {}
   },
