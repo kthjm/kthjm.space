@@ -12,7 +12,7 @@
     "serve": "serve _site"
   },
   "devDependencies": {
-    "ahub": "^0.0.5",
+    "ahub": "^0.0.6",
     "core-js": "^2.5.7",
     "serve": "^9.4.0"
   }
