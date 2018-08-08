@@ -1,51 +1,51 @@
 {
-	"inherit": true,
-	"body": {
-		"linksRowLength": 2,
-		"header": {
-			"image": "/_image/chooslr.white.svg",
-			"title": "chooslr.com",
-			"href": "https://chooslr.com",
-			"//description": "tumblr client.",
-			"description": "<a href=\"https://chooslr.com/document\" target=\"_blank\" style=\"text-decoration:none;color:lightslategrey;\">about</a>"
-		},
-		"links": [
-			{
-				"title": "",
-				"image": "https://image.flaticon.com/icons/svg/25/25231.svg",
-				"href": "https://github.com/chooslr",
-				"hub": ""
-			},
-			{
-				"title": "",
-				"image": "http://creavans.jp/wp-content/uploads/2016/07/fae52b4a340d047a5f90d6ada697ac73.png",
-				"href": "https://suzuri.jp/chooslr",
-				"hub": ""
-			},
-			{
-				"title": "official",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
-				"href": "https://chooslr.tumblr.com",
-				"hub": ""
-			},
-			{
-				"title": "reblog",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
-				"href": "https://is-chooslr.tumblr.com",
-				"hub": ""
-			},
-			{
-				"title": "",
-				"image": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png",
-				"href": "https://twitter.com/chooslr",
-				"hub": ""
-			},
-			{
-				"title": "",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1000px-F_icon.svg.png",
-				"href": "https://www.facebook.com/chooslr",
-				"hub": ""
-			}
-		]
-	}
+  "inherit": true,
+  "body": {
+    "linksRowLength": 2,
+    "header": {
+      "image": "/_image/chooslr.white.svg",
+      "title": "chooslr.com",
+      "href": "https://chooslr.com",
+      "//description": "tumblr client.",
+      "description": "<a href=\"https://chooslr.com/document\" target=\"_blank\" style=\"text-decoration:none;color:lightslategrey;\">about</a>"
+    },
+    "links": [
+      {
+        "title": "",
+        "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
+        "href": "https://github.com/chooslr",
+        "hub": ""
+      },
+      {
+        "title": "",
+        "image": "http://creavans.jp/wp-content/uploads/2016/07/fae52b4a340d047a5f90d6ada697ac73.png",
+        "href": "https://suzuri.jp/chooslr",
+        "hub": ""
+      },
+      {
+        "title": "official",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
+        "href": "https://chooslr.tumblr.com",
+        "hub": ""
+      },
+      {
+        "title": "reblog",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
+        "href": "https://is-chooslr.tumblr.com",
+        "hub": ""
+      },
+      {
+        "title": "",
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png",
+        "href": "https://twitter.com/chooslr",
+        "hub": ""
+      },
+      {
+        "title": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1000px-F_icon.svg.png",
+        "href": "https://www.facebook.com/chooslr",
+        "hub": ""
+      }
+    ]
+  }
 }

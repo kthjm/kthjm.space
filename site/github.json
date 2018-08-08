@@ -1,38 +1,38 @@
 {
-	"inherit": true,
-	"body": {
-		"linksRowLength": 2,
-		"header": {
-			"image": "https://image.flaticon.com/icons/svg/25/25231.svg",
-			"title": "github.com/kthjm",
-			"href": "https://github.com/kthjm",
-			"//description": "<a href=\"https://github.com/kthjm\" target=\"_blank\" style=\"text-decoration:none;color:lightslategrey;\">https://github.com/kthjm</a>"
-		},
-		"links": [
-			{
-				"title": "chooslr",
-				"image": "/_image/chooslr.trans.svg",
-				"href": "https://github.com/chooslr",
-				"hub": "/chooslr"
-			},
-			{
-				"title": "niconico-hoik",
-				"image": "/_image/niconico-hoik.trans.png",
-				"href": "https://github.com/niconico-hoik",
-				"hub": ""
-			},
-			{
-				"title": "chinjs",
-				"image": "/_image/chin.svg",
-				"href": "https://github.com/chinjs",
-				"hub": ""
-			},
-			{
-				"title": "kthjm/mw-*",
-				"image": "/_image/fool.png",
-				"href": "https://github.com/kthjm?utf8=%E2%9C%93&tab=repositories&q=mw-",
-				"hub": ""
-			}
-		]
-	}
+  "inherit": true,
+  "body": {
+    "linksRowLength": 2,
+    "header": {
+      "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
+      "title": "github.com/kthjm",
+      "href": "https://github.com/kthjm",
+      "//description": "<a href=\"https://github.com/kthjm\" target=\"_blank\" style=\"text-decoration:none;color:lightslategrey;\">https://github.com/kthjm</a>"
+    },
+    "links": [
+      {
+        "title": "chooslr",
+        "image": "/_image/chooslr.trans.svg",
+        "href": "https://github.com/chooslr",
+        "hub": "/chooslr"
+      },
+      {
+        "title": "niconico-hoik",
+        "image": "/_image/niconico-hoik.trans.png",
+        "href": "https://github.com/niconico-hoik",
+        "hub": ""
+      },
+      {
+        "title": "chinjs",
+        "image": "/_image/chin.svg",
+        "href": "https://github.com/chinjs",
+        "hub": ""
+      },
+      {
+        "title": "kthjm/mw-*",
+        "image": "/_image/fool.png",
+        "href": "https://github.com/kthjm?utf8=%E2%9C%93&tab=repositories&q=mw-",
+        "hub": ""
+      }
+    ]
+  }
 }
