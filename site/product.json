@@ -2,9 +2,14 @@
   "inherit": true,
   "body": {
     "icon": "/_image/kthjm.svg",
-    "description": "ref: <a href=\"https://github.com/kthjm\" target=\"_blank\" style=\"text-decoration:none;color:#ffffff;\">https://github.com/kthjm</a>",
+    "description": "ref: <a href=\"https://www.google.co.jp/search?rlz=1CAZZAC_enJP806&biw=1464&bih=780&tbm=isch&sa=1&ei=u1RsW_XaGsqc8QWakaKQAg&q=japanese+monmon\" target=\"_blank\">monmon</a>",
     "links": {
       "contents": [
+        {
+          "title": "kthjm",
+          "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
+          "href": "https://github.com/kthjm"
+        },
         {
           "title": "chooslr",
           "image": "/_image/chooslr.trans.svg",
@@ -22,6 +27,17 @@
           "image": "/_image/chin.svg",
           "href": "https://github.com/chinjs",
           "hub": ""
+        },
+        {
+          "title": "yarn",
+          "image": "https://yarnpkg.com/assets/og_image.png",
+          "href": "https://yarnpkg.com/ja/packages?q=%2A&p=1&owner%5B0%5D=kthjm",
+          "hub": ""
+        },
+        {
+          "title": "cws",
+          "image": "https://cdn.icon-icons.com/icons2/195/PNG/256/Chrome_Web_Store_23429.png",
+          "href": "https://chrome.google.com/webstore/search/kthjm"
         },
         {
           "title": "kthjm/mw-*",

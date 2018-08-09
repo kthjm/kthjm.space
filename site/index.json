@@ -15,17 +15,22 @@
       ["meta", { "property": "og:image", "content": "/_image/opengraph.png" }],
       ["meta", { "property": "og:title", "content": "kthjm's hub" }],
       ["meta", { "property": "og:description", "content": "" }],
-      ["meta", { "name": "google-site-verification", "content": "PMR1WzOOInpvFkZKk0Qpf4UZX4N3jqr_KLN3W4sW6_w" }]
+      ["meta", { "name": "google-site-verification", "content": "PMR1WzOOInpvFkZKk0Qpf4UZX4N3jqr_KLN3W4sW6_w" }],
+      ["link", { "type": "text/css", "rel": "stylesheet", "href": "/index.css" }]
     ]
   },
   "body": {
     "background": "#221e30",
     "color": "#ffffff",
     "icon": "/_image/kthjm.svg",
-    "description": "Not in Education, Employment or Training.<br /><a href=\"mailto:kthjm@outlook.com\" style=\"text-decoration:none;color:#ffffff;\">kthjm@outlook.com</a>",
+    "description": "Not in Education, Employment or Training.<br /><a href=\"mailto:kthjm@outlook.com\">kthjm@outlook.com</a>",
     "links": {
       "rowLength": 2,
       "contents": [
+        {
+          "image": "https://cdn.onlinewebfonts.com/svg/img_534055.png",
+          "hub": "/sns"
+        },
         {
           "image": "/_image/code.png",
           "hub": "/product"
@@ -37,10 +42,6 @@
         {
           "image": "https://www.questuav.com/wp-content/uploads/2016/12/icon_partner.png",
           "hub": "/job"
-        },
-        {
-          "image": "/_image/piece.png",
-          "hub": "/drift"
         },
         {
           "image": "https://bantmag.com/news/wp-content/uploads/2016/06/paypal-e1464943847866.png",

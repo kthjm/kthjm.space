@@ -2,11 +2,11 @@
   "inherit": true,
   "body": {
     "icon": "/_image/kthjm.svg",
-    "description": "ref: <a target=\"_target\" href=\"https://dev.to/colinmtech/how-i-find-six-figure-remote-software-developer-jobs-23jd\" style=\"color:#ffffff;text-decoration:none;\">How I Find Six Figure Remote Software Developer Jobs</a>",
+    "description": "ref: <a target=\"_target\" href=\"https://dev.to/colinmtech/how-i-find-six-figure-remote-software-developer-jobs-23jd\">How I Find Six Figure Remote Software Developer Jobs</a>",
     "links": {
       "contents": [
         {
-          "image": "https://pbs.twimg.com/profile_images/378800000703590611/14862346f1b98339fa281124715b7047_400x400.jpeg",
+          "image": "https://cdn-images-1.medium.com/max/1600/1*NJCs2cA_k7_cY4c0heg2WA.jpeg",
           "href": "https://weworkremotely.com/"
         },
         {
@@ -14,7 +14,7 @@
           "href": "https://stackoverflow.com/jobs/remote-developer-jobs"
         },
         {
-          "image": "https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Reddit.png",
+          "image": "https://cdn.worldvectorlogo.com/logos/reddit-2.svg",
           "href": "https://www.reddit.com/r/forhire/"
         }
       ]
