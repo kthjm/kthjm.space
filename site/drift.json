@@ -1,0 +1,39 @@
+{
+  "inherit": true,
+  "body": {
+    "icon": "/_image/kthjm.svg",
+    "description": "ref: <a href=\"https://www.google.co.jp/search?q=tokyo+drifter&rlz=1CAZZAC_enJP806&source=lnms&tbm=isch&sa=X&ved=0ahUKEwio9NeRwd_cAhXWFYgKHWdgBBYQ_AUICigB&biw=1464&bih=780\" target=\"_blank\" style=\"text-decoration:none;color:#ffffff;\">tokyo drifter</a>",
+    "links": {
+      "contents": [
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png",
+          "href": "https://twitter.com/koto_hajime"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tumblr.svg/1000px-Tumblr.svg.png",
+          "href": "https://kthjm.tumblr.com/"
+        },
+        {
+          "image": "https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png",
+          "href": "https://codepen.io/kthjm/"
+        },
+        {
+          "image": "https://cdn3.iconfinder.com/data/icons/picons-social/57/42-dribbble-512.png",
+          "href": "https://dribbble.com/kthjm"
+        },
+        {
+          "image": "https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Reddit.png",
+          "href": "https://www.reddit.com/user/kthjm"
+        },
+        {
+          "image": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png",
+          "href": "https://stackoverflow.com/users/7476756/kthjm"
+        },
+        {
+          "image": "https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png",
+          "href": "https://soundcloud.com/kthjm"
+        }
+      ]
+    }
+  }
+}

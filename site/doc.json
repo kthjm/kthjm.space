@@ -1,0 +1,27 @@
+{
+  "inherit": true,
+  "body": {
+    "icon": "/_image/kthjm.svg",
+    "description": "ref: <a target=\"_target\" href=\"https://www.google.co.jp/search?q=Vil%C3%A9m+Flusser\" style=\"color:#ffffff;text-decoration:none;\">Vilém Flusser</a>",
+    "links": {
+      "contents": [
+        {
+          "image": "https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667",
+          "href": "https://dev.to/kthjm"
+        },
+        {
+          "image": "https://cdn.worldvectorlogo.com/logos/medium-2.svg",
+          "href": "https://medium.com/@koto_hajime"
+        },
+        {
+          "image": "https://pbs.twimg.com/profile_images/1542801560/Qiita.png",
+          "href": "https://qiita.com/kthjm"
+        },
+        {
+          "image": "https://cdn-images-1.medium.com/max/1600/1*wcXyMGZl43Pcdi1U2bbn-Q.png",
+          "href": "https://gist.github.com/kthjm/"
+        }
+      ]
+    }
+  }
+}
